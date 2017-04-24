@@ -30,7 +30,7 @@ Resposta: touch bruno1.txt
 5 - Crie 1 pasta com seu nome+diadenascimento (ex.:alex25) e copie os 3 arquivos criandos
 anteriormente para esta pasta.
 Resposta: mkdir bruno13
-	  cd bruno{1,2,3}.txt /Users/BrunoAD/trabalho1-labso/trabalho/bruno13
+	  cp bruno{1,2,3}.txt /Users/BrunoAD/trabalho1-labso/trabalho/bruno13
      
 
 6 - A partir de sua pasta original, usando o comando find do linux,
