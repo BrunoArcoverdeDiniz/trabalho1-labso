@@ -1,0 +1,10 @@
+bruno1.txt
+bruno13
+bruno2.txt
+bruno3.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+trab1-2017.txt
